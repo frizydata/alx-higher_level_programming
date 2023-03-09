@@ -4,7 +4,13 @@ if __name__ == "__main__":
     from calculator_1 import add, sub, mul, div
 a = 10
 b = 5
-print("{} + {} = {}".format(a, b, add(a, b)))
-print("{} - {} = {}".format(a, b, sub(a, b)))
-print("{} * {} = {}".format(a, b, mul(a, b)))
-print("{} / {} = {}".format(a, b, div(a, b)))
+
+adding = add(a, b)
+subtracting = sub(a, b)
+multiplying = mul(a, b)
+dividing = div(a, b)
+
+print("{} + {} = {}".format(a, b, adding))
+print("{} - {} = {}".format(a, b, subtracting))
+print("{} * {} = {}".format(a, b, multiplying))
+print("{} / {} = {}".format(a, b, dividing))
