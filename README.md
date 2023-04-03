@@ -1,1 +1,1 @@
-Let's speak the Python language
+Python - Data Structures: Lists, Tuples
