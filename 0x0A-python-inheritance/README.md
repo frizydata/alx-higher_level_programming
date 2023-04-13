@@ -12,6 +12,4 @@ In programming, we can create a class for each type of toy (like a stuffed anima
 
 
 
-I hope that helps!</p>
-
-
+Pretty sure this should help!</p>
